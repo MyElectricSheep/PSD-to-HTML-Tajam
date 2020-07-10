@@ -1,8 +1,3 @@
-# Yay, Tajam!
+### Tajam PSD to HTML exercise
 
-This is a sample **README.md** file
-
-## This is a secondary header
-
-Don't _mind_ it
-some more stuff...
+#### Not my work, found online
